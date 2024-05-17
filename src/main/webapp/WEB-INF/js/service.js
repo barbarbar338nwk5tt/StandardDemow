@@ -88,7 +88,7 @@ devOpsService.factory('devOpsService', function ($http) {
        	];
 	
 		$employee = [];
-		//297 fixed 1ghbj
+		//297 fixed
 	
 		return $employee;
 	         
