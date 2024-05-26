@@ -88,8 +88,7 @@ devOpsService.factory('devOpsService', function ($http) {
        	];
 	
 		$employee = [];
-		//318 fixed_SM ghjjk
-	
+		//318 fixedCP
 		return $employee;
 	         
 		
