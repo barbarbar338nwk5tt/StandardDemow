@@ -94,6 +94,8 @@ devOpsService.factory('devOpsService', function ($http) {
 		
 	}
 	
+	//comented
+	
 	return devOpsDemoAPI; 
 	
 })
