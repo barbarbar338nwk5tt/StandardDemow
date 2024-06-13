@@ -94,7 +94,7 @@ devOpsService.factory('devOpsService', function ($http) {
 		
 	}
 	
-	//comented by anshu
+	//comented by anshu on 24th
 	
 	return devOpsDemoAPI; 
 	
